@@ -58,10 +58,6 @@ Async
     Exit code: 0
 
 
-Now, switch your environment to the virtual one by run this single
-command: :bash:`source ~/venv/bin/activate`
-
-
 .. |image0| image:: https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-%23007ec6
 .. |image1| image:: https://img.shields.io/github/issues/Rom1-J/tuxbot-bot
 .. |image2| image:: https://img.shields.io/badge/code%20style-black-000000.svg
